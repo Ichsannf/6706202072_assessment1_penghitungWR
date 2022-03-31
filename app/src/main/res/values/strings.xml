@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">assessment1</string>
+    <string name="splash">PENGHITUNG WINRATE MLBB</string>
+    <string name="ichsan">Muhammad Ichsan Nurfauzi</string>
+    <string name="intro">Sebagai penggemar game mobile legends tentunya kalian ingin sekali bergabung dengan tim ternama ML ya guys, namun sayangnya untuk menjadi bagian dari tim tidak mudah guys, kalian harus memiliki win rate paling tidak sebesar 70%. Tentu saja untuk mencapai angka tersebut sangat sulit apalagi bagi kalian yang baru terjun di dunia game Mobile Legends.</string>
+    <string name="match">Total match anda</string>
+    <string name="wrText">Total winrate anda</string>
+    <string name="wrtujuan">Winrate yang anda inginkan</string>
+
+    <string name="eMatch">Total match tidak boleh kosong bos</string>
+    <string name="eWr">Total winrate tidak boleh kosong bos</string>
+    <string name="eWrReq">Berapa winrate yang kamu inginkan? Tolong diisi</string>
+
+    <string name="eInput">mohon maaf, tidak boleh diisi 0 atau kurang dari 0</string>
+
+    <string name="hasil">butuh %1$s match kemenangan agar winrate yang anda tuju tercapai, Semangat!!</string>
+    <string name="invalidWrReq">Anda tidak bisa meraih winrate 100% lagi</string>
+</resources>
