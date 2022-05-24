@@ -5,8 +5,10 @@
       <map>
         <entry key="..\:/Users/FX505GT/assessment1/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/FX505GT/assessment1/app/src/main/res/layout/activity_splash_screen.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/FX505GT/assessment1/app/src/main/res/layout/fragment_about.xml" value="0.16893115942028986" />
         <entry key="..\:/Users/FX505GT/assessment1/app/src/main/res/layout/fragment_hitung.xml" value="0.16893115942028986" />
         <entry key="..\:/Users/FX505GT/assessment1/app/src/main/res/layout/fragment_saran.xml" value="0.16893115942028986" />
+        <entry key="..\:/Users/FX505GT/assessment1/app/src/main/res/menu/options_menu.xml" value="0.25" />
       </map>
     </option>
   </component>

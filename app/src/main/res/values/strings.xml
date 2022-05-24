@@ -17,4 +17,11 @@
     <string name="invalidWrReq">Anda tidak bisa meraih winrate 100% lagi</string>
     <string name="saran_pertandingan">Coba untuk bermain bersama teman yang jago, agar winrate mu tercapai dengan cepat</string>
     <string name="lihat_saran">Lihat Saran</string>
+    <string name="copyright">Hitung Winrate MLBB merupakan sebuah aplikasi Android untuk menghitung berapa pertandingan lagi untuk mencapai angka winrate yang diinginkan.\n\nAplikasi ini dibuat untuk memenuhi assessment. https://github.com/Ichsannf/6706202072_assessment1_penghitungWR\n\nCopyright © 2022 Muhammad Ichsan Nurfauzi.\nAll rights reserved.</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="fragment_hitung">Hitung Winrate</string>
+    <string name="saran">Saran</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">Total Match: %1$s Match\nTotal Winrate: %2$s\nMatch yang dibutuhkan: %3$s Kemenangan Lagi</string>
 </resources>
