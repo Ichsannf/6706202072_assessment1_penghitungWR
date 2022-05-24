@@ -24,4 +24,12 @@
     <string name="about">Tentang Aplikasi</string>
     <string name="bagikan">Bagikan</string>
     <string name="bagikan_template">Total Match: %1$s Match\nTotal Winrate: %2$s\nMatch yang dibutuhkan: %3$s Kemenangan Lagi</string>
+    <string name="belum_ada_data">Belum Ada Data</string>
+    <string name="histori">Histori</string>
+    <string name="hasil_x">Total Match: %1s Butuh Butuh: %2s Win</string>
+    <string name="data_x">Total Winrate: %1s</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
 </resources>
