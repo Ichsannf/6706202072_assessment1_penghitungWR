@@ -15,4 +15,6 @@
 
     <string name="hasil">butuh %1$s match kemenangan agar winrate yang anda tuju tercapai, Semangat!!</string>
     <string name="invalidWrReq">Anda tidak bisa meraih winrate 100% lagi</string>
+    <string name="saran_pertandingan">Coba untuk bermain bersama teman yang jago, agar winrate mu tercapai dengan cepat</string>
+    <string name="lihat_saran">Lihat Saran</string>
 </resources>
