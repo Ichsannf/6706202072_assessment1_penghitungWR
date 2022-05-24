@@ -1,7 +1,6 @@
 package org.d3if6706202072.assessment1.ui.histori
 
 import android.os.Bundle
-import android.util.Log
 import android.view.*
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
@@ -31,7 +30,7 @@ class HistoriFragment : Fragment() {
         return binding.root
     }
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        myAdapter = HistoriAdapter()
+        myAdapter = HistoriAdapter(viewModel,requireContext())
         with(binding.recyclerView) {
             addItemDecoration(DividerItemDecoration(context, RecyclerView.VERTICAL))
             adapter = myAdapter
