@@ -38,6 +38,7 @@ class HitungFragment : Fragment() {
             it.findNavController().navigate(R.id.action_hitungFragment_to_saranFragment)
         }
         viewModel.getHasilWr().observe(requireActivity(), { showResult(it) })
+        viewModel.scheduleUpdater(requireActivity().application)
         binding.shareButton.setOnClickListener { shareData() }
 
     }

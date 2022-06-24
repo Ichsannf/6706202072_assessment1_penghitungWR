@@ -19,11 +19,12 @@ class HistoriFragment : Fragment() {
     }
     private lateinit var binding: FragmentHistoriBinding
     private lateinit var myAdapter: HistoriAdapter
+
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         binding = FragmentHistoriBinding.inflate(layoutInflater,
             container, false)
         setHasOptionsMenu(true)
